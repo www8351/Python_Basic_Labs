@@ -3,9 +3,11 @@
 # 🎓 Python Mentoring Labs for Junior Engineers
 
 **A guided, test-driven path from buggy beginner scripts to clean, typed, production-style Python.**
+*מסלול מודרך ומבוסס-בדיקות מסקריפטים באגיים למתחילים לקוד פייתון נקי, מטופס וברמת production.*
 
 Each lab is a small, self-contained exercise — a pure typed function you can read, run, test, break, and fix. Curated and mentored from the perspective of an AI & DevOps Architect, so you don't just learn *syntax*, you learn the *habits* that make engineers trusted with real systems.
 
+[![CI](https://github.com/www8351/Python_Basic_Labs/actions/workflows/ci.yml/badge.svg)](https://github.com/www8351/Python_Basic_Labs/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/packaged%20with-uv-DE5FE9?logo=astral&logoColor=white)
 ![Ruff](https://img.shields.io/badge/lint-ruff-D7FF64?logo=ruff&logoColor=black)
@@ -29,6 +31,35 @@ Each lab is a small, self-contained exercise — a pure typed function you can r
 - [Develop](#-develop)
 
 ---
+
+## 🌍 What is this? · מה זה?
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇬🇧 English
+
+Seven **self-contained labs** taking a beginner from `input()` scripts to pure,
+typed, tested Python behind a clean CLI. Each lab pairs the finished professional
+version with the real beginner bug it replaced — so you study *both* sides of the fix.
+
+</td>
+<td width="50%" valign="top">
+
+<div dir="rtl">
+
+### 🇮🇱 עברית
+
+שבע **מעבדות עצמאיות** שלוקחות מתחיל מסקריפטים מבוססי `input()` לקוד פייתון טהור,
+מטופס ובר-בדיקה מאחורי CLI נקי. כל מעבדה מציגה את הגרסה המקצועית לצד הבאג האמיתי
+של המתחיל שהיא מחליפה — כך שלומדים את **שני הצדדים** של התיקון.
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 🎯 Who this is for
 
