@@ -114,9 +114,9 @@ habits a tech lead looks for:
 - **Separation of concerns** all logic lives in `src/labs/*`; the CLI in
   [`src/labs/cli.py`](src/labs/cli.py) only parses arguments and prints. Logic
   never knows it's behind a terminal.
-- **Type hints + `mypy --strict`** — the type checker is a free second reviewer
+- **Type hints + `mypy --strict`** the type checker is a free second reviewer
   that runs on every commit.
-- **Unit tests with `pytest`** — one test module per lab in [`tests/`](tests/),
+- **Unit tests with `pytest`** one test module per lab in [`tests/`](tests/),
   so behavior is pinned down and refactoring is safe.
 - **Input validation** functions raise clear `ValueError`s on bad input
   instead of failing mysteriously later.
