@@ -7,7 +7,7 @@
 
 Each lab is a small, self-contained exercise a pure typed function you can read, run, test, break, and fix. Curated and mentored from the perspective of an AI & DevOps Architect, so you don't just learn *syntax*, you learn the *habits* that make engineers trusted with real systems.
 
-[![CI](https://github.com/www8351/Python_Basic_Labs/actions/workflows/ci.yml/badge.svg)](https://github.com/www8351/Python_Basic_Labs/actions/workflows/ci.yml)
+[![CI](https://github.com/www8351/Python-Mentoring-Labs-for-Junior-Engineers/actions/workflows/ci.yml/badge.svg)](https://github.com/www8351/Python-Mentoring-Labs-for-Junior-Engineers/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/packaged%20with-uv-DE5FE9?logo=astral&logoColor=white)
 ![Ruff](https://img.shields.io/badge/lint-ruff-D7FF64?logo=ruff&logoColor=black)
